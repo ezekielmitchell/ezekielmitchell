@@ -13,7 +13,7 @@ credit to: Al Siam World!
   <samp>building
     <a href="https://endrcompany.com">「 ENDR COMPANY 」</a>
     <br>
-    「 I'm a computer engineering major at <b>Seattle University</b> with a focus in <b>computer vision</b> for <b>robotics</b>.
+    「 I'm a computer engineering major at <b>Seattle University</b> with a focus in <b>computer vision</b> for <b>robotics</b>. 」
     <br>
     <br>
   </samp>
