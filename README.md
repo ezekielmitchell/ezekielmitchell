@@ -4,7 +4,7 @@ credit to: Al Siam World!
  
 <h3 align="center">
         <samp>&gt; Hello!, I'm
-                <b><a target="_blank" href="https://endrcompany.com">Ezekiel A. Mitchell</a></b>
+                <b><a target="_blank" href="[https://endrcompany.com](https://github.com/Endr-Company)">Ezekiel A. Mitchell</a></b>
         </samp>
 </h3>
 
