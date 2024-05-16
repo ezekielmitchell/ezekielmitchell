@@ -11,7 +11,7 @@ credit to: Al Siam World!
 
 <p align="center"> 
   <samp>building
-    <a href="https://endrcompany.com">「 ENDR COMPANY 」</a>
+    <a href="https://github.com/Endr-Company">「 ENDR COMPANY 」</a>
     <br>
     「 I'm a computer engineering major at <b>Seattle University</b> with a focus in <b>computer vision</b> for <b>robotics</b>. 」
     <br>
