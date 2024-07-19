@@ -5,10 +5,9 @@
             「 Founder, Builder @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
     <br>
     <br>
-            「 Computer engineering major @ Seattle University with a focus in computer vision - object detection and tracking for robotics 」
+            「 <b>Computer engineering</b> major @ Seattle University with a focus in <b>computer vision - object detection and tracking</b> for robotics 」
     <br>
-</p>
-
+    
 Toolbox
 ---
 
@@ -29,9 +28,9 @@ Toolbox
 
 Connect
 ---
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endrcompany.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)](https://www.linkedin.com/in/ezekielmitchell/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/ezekielmitchell)
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/ezekielendr)](https://twitter.com/ezekielendr)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@ezekielamitchell)](https://www.youtube.com/@ezekielamitchell)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endrcompany.com)
 <img src="https://komarev.com/ghpvc/?username=ezekielmitchell&label=Profile%20views&color=0e75b6&style=flat-square" alt="ezekielmitchell" />
