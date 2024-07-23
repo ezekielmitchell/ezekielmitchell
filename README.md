@@ -2,11 +2,15 @@
 
 <p align="center"> 
     <br>
-            「 Founder, Builder @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
+            「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
     <br>
     <br>
-            「 <b>Computer engineering</b> major @ Seattle University with a focus in <b>computer vision - object detection and tracking</b> for robotics 」
+            「 <b>Computer engineering & Chinese</b> major with a focus in <b>Computer Vision - Object Detection, Tracking, and Classification</b> for robotics 」
     <br>
+    <br>
+    Find me @ <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a>
+    <br>
+    
     
 Toolbox
 ---
