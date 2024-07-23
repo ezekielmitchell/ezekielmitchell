@@ -3,19 +3,18 @@
 <p align="center">
     <br>
     <a href="https://endrcompany.com" target="_blank">
-  <img src="images/Banner_White.png" width="900" height="450" alt="My Logo">
-</a>
-    <br>
-    <br>
-            「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
-    <br>
-    <br>
-            「 <b>Computer engineering & Chinese</b> major with a focus in <b>Computer Vision - Object Detection, Tracking, and Classification</b> for robotics 」
-    <br>
-    <br>
-    Find me @ <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a>
-    <br>
-    
+  <img src="images/Banner_White.png" width="850" height="450" alt="My Logo">
+	</a>
+
+<br>
+<br>
+    「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
+<br>
+    <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. Current research in Computer Vision - specializing in critical object detection/tracking, and terrain classification for robotics applications.</div>
+<br>
+<div align="center">Portfolio: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div>
+
+
     
 Toolbox
 ---
