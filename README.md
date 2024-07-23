@@ -1,6 +1,9 @@
 
 
-<p align="center"> 
+<p align="center">
+    <br>
+    <img src="images/Banner_White.png" width="900" height="400" alt="My Logo">
+    <br>
     <br>
             「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
     <br>
