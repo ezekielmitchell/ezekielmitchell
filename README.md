@@ -2,7 +2,9 @@
 
 <p align="center">
     <br>
-    <img src="images/Banner_White.png" width="900" height="450" alt="My Logo">
+    <a href="https://endrcompany.com" target="_blank">
+  <img src="images/Banner_White.png" width="900" height="450" alt="My Logo">
+</a>
     <br>
     <br>
             「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
