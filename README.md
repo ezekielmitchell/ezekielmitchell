@@ -1,21 +1,16 @@
-
-
 <p align="center">
     <br>
     <a href="https://endrcompany.com" target="_blank">
-  <img src="images/Banner_White.png" width="875" height="450" alt="My Logo">
-	</a>
-
-<br>
-<br>
+        <img src="images/Banner_White.png" width="875" height="450" alt="My Logo">
+    </a>
+    <br>
+    <br>
     「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
-<br>
-    <div align="center">3rd year Computer Engineering and Chinese student passionate about implementations of AI for national defense and security. Current research focuses on Computer Vision, specializing in critical Object Detection/Tracking and Terrain Classification for robotics applications.</div>
-<br>
-<div align="center">Portfolio: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div>
+    <br>
+    <div align="left">3rd year Computer Engineering and Chinese student passionate about implementations of AI for national defense and security. Current research focuses on Computer Vision, specializing in critical Object Detection/Tracking and Terrain Classification for robotics applications.</div>
+    <br>
+    <div align="center">Portfolio: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div>
 
-
-    
 Toolbox
 ---
 
@@ -25,14 +20,13 @@ Toolbox
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry pi" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
 </p>
-
 
 Connect
 ---
@@ -41,4 +35,6 @@ Connect
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/ezekielmitchell)
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/ezekielendr)](https://twitter.com/ezekielendr)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@ezekielamitchell)](https://www.youtube.com/@ezekielamitchell)
+[![Huggingface Badge](https://img.shields.io/badge/-Huggingface-ffca28?style=flat-square&logo=huggingface&logoColor=white&link=https://huggingface.co/EzekielMitchell)](https://huggingface.co/EzekielMitchell)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/EzekielMitchell)](https://www.kaggle.com/EzekielMitchell)
 <img src="https://komarev.com/ghpvc/?username=ezekielmitchell&label=Profile%20views&color=0e75b6&style=flat-square" alt="ezekielmitchell" />
