@@ -1,7 +1,7 @@
 <p align="center">
     <br>
     <a href="https://endrcompany.com" target="_blank">
-        <img src="images/Banner_White.png" width="875" height="450" alt="My Logo">
+        <img src="images/6.png" width=100% height=100% alt="My Logo">
     </a>
     <br>
     <br>
