@@ -3,7 +3,7 @@
 <p align="center">
     <br>
     <a href="https://endrcompany.com" target="_blank">
-  <img src="images/6.png" width=100% height=100% alt="My Logo">
+  <img src="images/Vision evolved..png" width=100% height=100% alt="My Logo">
 	</a>
 
 <br>
