@@ -36,7 +36,7 @@ Toolbox
 
 Connect
 ---
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endrcompany.com)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endr.us)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)](https://www.linkedin.com/in/ezekielmitchell/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/ezekielmitchell)
 [![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/ezekielendr)](https://twitter.com/ezekielendr)
