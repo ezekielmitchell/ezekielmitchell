@@ -2,13 +2,13 @@
 
 <p align="center">
     <br>
-    <a href="https://endrcompany.com" target="_blank">
+    <a href="https://endr.us" target="_blank">
   <img src="images/Vision evolved..png" width=100% height=100% alt="My Logo">
 	</a>
 
 <br>
 <br>
-    「 Building @ <b><a href="https://endrcompany.com/">Endr</a></b> 」
+    「 Building @ <b><a href="https://endr.us/">Endr</a></b> 」
 <br>
     <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. Current research in Computer Vision - specializing in critical object detection/tracking, and terrain classification for robotics applications.</div>
 <br>
