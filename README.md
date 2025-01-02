@@ -8,7 +8,7 @@
 
 <br>
 <br>
-    「 Building @ <b><a href="https://endr.us/">Endr</a></b> 」
+    「 Building <b><a href="https://endr.us/">Endr</a></b> 」
 <br>
     <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. Current research in Computer Vision - specializing in critical object detection/tracking, and terrain classification for robotics applications.</div>
 <br>
