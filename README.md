@@ -10,7 +10,7 @@
 <br>
     「 Building <b><a href="https://endr.us/">Endr</a></b> 」
 <br>
-    <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. Current research in Computer Vision - specializing in critical object detection/tracking, and terrain classification for robotics applications.</div>
+    <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. My current [computer vision] research specializes in critical object detection/tracking and terrain classification for robust robotics applications.</div>
 <br>
 <!-- <div align="center">Portfolio: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div> -->
     
