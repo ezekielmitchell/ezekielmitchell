@@ -12,9 +12,9 @@
 <br>
     <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. My current [computer vision] research specializes in critical object detection/tracking and terrain classification for robust robotics applications.</div>
 <br>
-<!-- <div align="center">Portfolio: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div> -->
+<div align="center">About: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div>
     
-Toolbox
+Stack
 ---
 
 <p align="center">
@@ -31,9 +31,6 @@ Toolbox
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
 </p>
 
-
-
-
 Connect
 ---
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endr.us)
@@ -43,4 +40,6 @@ Connect
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@ezekielamitchell)](https://www.youtube.com/@ezekielamitchell)
 <img src="https://komarev.com/ghpvc/?username=ezekielmitchell&label=Profile%20views&color=0e75b6&style=flat-square" alt="ezekielmitchell" />
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielmitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=2025%20Activity" width="100%" />
+</p>
