@@ -11,12 +11,16 @@
     「 ... builing <b><a href="https://endr.us/">Endr</a></b> 」
 <br>
     <div align="center">3rd year Computer Engineering and Chinese student passionate about AI for national defense and support. My current [computer vision] research specializes in critical object detection/tracking and terrain classification for robust robotics applications.</div>
-<br>
-<div align="center">About: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div>
+<be>
 
-    
-### Tech Stack
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielmitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=2025%20Activity" width="100%" />
+</p>
 
+<!-- <div align="center">About: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div> -->
+
+Tech Stack
+---
 <div align="center">
   <table>
     <tr>
@@ -39,10 +43,6 @@
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielmitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=2025%20Activity" width="100%" />
-</p>
 
 Connect
 ---
