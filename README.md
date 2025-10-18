@@ -14,7 +14,7 @@
 <be>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielmitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=30-Day%20Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezekielamitchell&bg_color=00000000&color=888888&line=4A90E2&point=D36F42&area=true&hide_border=true&custom_title=30-Day%20Activity" width="100%" />
 </p>
 
 <!-- <div align="center">About: <a href="https://ezekielmitchell.github.io/">ezekielmitchell.github.io</a></div> -->
