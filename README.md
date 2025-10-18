@@ -48,12 +48,6 @@ Connect
 ---
 [![Schedule a Meeting](https://img.shields.io/badge/-Schedule%20a%20Meeting-006BFF?style=flat-square&logo=calendly&logoColor=white&link=https://calendly.com/ezekielmitchll/30min)](https://calendly.com/ezekielmitchll/30min)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ezekiel@endrcompany.com)](mailto:ezekiel@endr.us)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-antonio-robotica/?locale=en_US)](https://www.linkedin.com/in/ezekielmitchell/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mateustoin)](https://github.com/ezekielmitchell)
-[![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/ezekielmitchll)](https://twitter.com/ezekielmitchll)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/@ezekielamitchell)](https://www.youtube.com/@ezekielamitchell)
-<img src="https://komarev.com/ghpvc/?username=ezekielmitchell&label=Profile%20views&color=0e75b6&style=flat-square" alt="ezekielmitchell" />
-
-
 
 
