@@ -7,9 +7,6 @@
 	</a>
 
 <br>
-<br>
-    「 ... builing <b><a href="https://endr.us/">Endr</a></b> 」
-<br>
     <div align="center">4th year Computer Engineering, Robotics, and Chinese student passionate about AI for national defense and support. My current [computer vision] research focuses on dataset creation and model training for context-aware gaze estimation.</div>
 <be>
 
